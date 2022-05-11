@@ -30,7 +30,7 @@
     adobeDCView.previewFile({
       content:{ location:
         &lt;!-- { url: &#34;../CountyReport_Albany.pdf&#34;}}, --&gt;
-		{ url: &#39;..\/CountyReport_Albany.pdf&#39;}},
+		{ url: &#39;..\/CountyReport_D_Albany.pdf&#39;}},
       &lt;!-- metaData:{fileName: &#34;CountyReport_Albany.pdf&#34;} --&gt;
 	    metaData:{fileName: &#34;CountyReport.pdf&#34;}
     },
@@ -43,7 +43,7 @@
 &lt;script type=&#34;text/javascript&#34;&gt;
 window.onload = function() {
 
-var url = &#34;https:\/\/literacyadvocates.github.io\/Data\/&#34; + &#39;..\/CountyReport_Albany.pdf&#39;;
+var url = &#34;https:\/\/literacyadvocates.github.io\/Data\/&#34; + &#39;..\/CountyReport_D_Albany.pdf&#39;;
 
 
 &lt;/script&gt;
