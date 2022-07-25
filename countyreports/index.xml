@@ -1145,6 +1145,45 @@ var url = &#34;https:\/\/literacyadvocates.github.io\/Data\/&#34; + &#39;..\/Cou
     </item>
     
     <item>
+      <title>Countyreports: NYC - All Counties</title>
+      <link>https://literacyadvocates.github.io/Data/countyreports/2019/nyc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://literacyadvocates.github.io/Data/countyreports/2019/nyc/</guid>
+      <description>
+        
+        
+        &lt;div id=&#34;adobe-dc-view&#34; style=&#34;height: 800px;&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://documentcloud.adobe.com/view-sdk/main.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+  document.addEventListener(&#34;adobe_dc_view_sdk.ready&#34;, function(){
+    var adobeDCView = new AdobeDC.View({clientId: &#34;b6889906c4aa41cca4853c57186a6a93&#34;, divId: &#34;adobe-dc-view&#34;});
+    adobeDCView.previewFile({
+      content:{ location:
+        &lt;!-- { url: &#34;../CountyReport_Albany.pdf&#34;}}, --&gt;
+		{ url: &#39;..\/CountyReport_NYC.pdf&#39;}},
+      &lt;!-- metaData:{fileName: &#34;CountyReport_Albany.pdf&#34;} --&gt;
+	    metaData:{fileName: &#34;CountyReport.pdf&#34;}
+    },
+    {
+      embedMode: &#34;IN_LINE&#34;
+    });
+  });
+&lt;/script&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+window.onload = function() {
+
+var url = &#34;https:\/\/literacyadvocates.github.io\/Data\/&#34; + &#39;..\/CountyReport_NYC.pdf&#39;;
+
+
+&lt;/script&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Countyreports: Oneida County</title>
       <link>https://literacyadvocates.github.io/Data/countyreports/2019/oneida/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1916,45 +1955,6 @@ var url = &#34;https:\/\/literacyadvocates.github.io\/Data\/&#34; + &#39;..\/Cou
 window.onload = function() {
 
 var url = &#34;https:\/\/literacyadvocates.github.io\/Data\/&#34; + &#39;..\/CountyReport_Tioga.pdf&#39;;
-
-
-&lt;/script&gt;
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Countyreports: Tompkins County</title>
-      <link>https://literacyadvocates.github.io/Data/countyreports/2019/tompkins/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://literacyadvocates.github.io/Data/countyreports/2019/tompkins/</guid>
-      <description>
-        
-        
-        &lt;div id=&#34;adobe-dc-view&#34; style=&#34;height: 800px;&#34;&gt;&lt;/div&gt;
-&lt;script src=&#34;https://documentcloud.adobe.com/view-sdk/main.js&#34;&gt;&lt;/script&gt;
-&lt;script type=&#34;text/javascript&#34;&gt;
-  document.addEventListener(&#34;adobe_dc_view_sdk.ready&#34;, function(){
-    var adobeDCView = new AdobeDC.View({clientId: &#34;b6889906c4aa41cca4853c57186a6a93&#34;, divId: &#34;adobe-dc-view&#34;});
-    adobeDCView.previewFile({
-      content:{ location:
-        &lt;!-- { url: &#34;../CountyReport_Albany.pdf&#34;}}, --&gt;
-		{ url: &#39;..\/CountyReport_Tompkins.pdf&#39;}},
-      &lt;!-- metaData:{fileName: &#34;CountyReport_Albany.pdf&#34;} --&gt;
-	    metaData:{fileName: &#34;CountyReport.pdf&#34;}
-    },
-    {
-      embedMode: &#34;IN_LINE&#34;
-    });
-  });
-&lt;/script&gt;
-
-&lt;script type=&#34;text/javascript&#34;&gt;
-window.onload = function() {
-
-var url = &#34;https:\/\/literacyadvocates.github.io\/Data\/&#34; + &#39;..\/CountyReport_Tompkins.pdf&#39;;
 
 
 &lt;/script&gt;
