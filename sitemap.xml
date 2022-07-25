@@ -2,9 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://literacyadvocates.github.io/Data/distreports/gradeprogress/</loc>
+  </url><url>
     <loc>https://literacyadvocates.github.io/Data/countyreports/</loc>
   </url><url>
+    <loc>https://literacyadvocates.github.io/Data/distreports/gradeprogress-nyc/</loc>
+  </url><url>
     <loc>https://literacyadvocates.github.io/Data/distreports/</loc>
+  </url><url>
+    <loc>https://literacyadvocates.github.io/Data/distreports/grade3/</loc>
+  </url><url>
+    <loc>https://literacyadvocates.github.io/Data/distreports/grade3-nyc/</loc>
   </url><url>
     <loc>https://literacyadvocates.github.io/Data/countyreports/2019/</loc>
   </url><url>
@@ -45,14 +53,6 @@
     <loc>https://literacyadvocates.github.io/Data/countyreports/2019/fulton/</loc>
   </url><url>
     <loc>https://literacyadvocates.github.io/Data/countyreports/2019/genesee/</loc>
-  </url><url>
-    <loc>https://literacyadvocates.github.io/Data/distreports/grade3/</loc>
-  </url><url>
-    <loc>https://literacyadvocates.github.io/Data/distreports/grade3-nyc/</loc>
-  </url><url>
-    <loc>https://literacyadvocates.github.io/Data/distreports/gradeprogress/</loc>
-  </url><url>
-    <loc>https://literacyadvocates.github.io/Data/distreports/gradeprogress-nyc/</loc>
   </url><url>
     <loc>https://literacyadvocates.github.io/Data/countyreports/2019/greene/</loc>
   </url><url>
